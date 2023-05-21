@@ -9,19 +9,20 @@ Note that the source code will not provided in this repository anyway since ther
 3. Text recognition
 
 ## Overview
-![[overview_ocr.png]]
+![](overview_ocr.png)
 
 ## Straight line detection
-![[straight_line_OCR.png]]
+![](straight_line_OCR.png)
 
 ## Region of interest detection
-![[ROI_OCR.png]]
+![](ROI_OCR.png)
 ### Why don't we use $x$-axis to cluster a bunch of characters?
-![[Character_contour_OCR.png]]
+![](Character_contour_OCR.png)
+
 Usually, Thai language has a linear writing system, $x$-axis can be neglected if we are interested in line detection.
 
 ## Text recognition
-![[Tesseract_OCR.png]]
+![](Tesseract_OCR.png)
 
 ## Pain points
-![[Pain_points.png]]
+![](Pain_points.png)
